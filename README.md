@@ -133,10 +133,13 @@ method for challenging tasks, and learning new technologies and tools if the nee
 
 ## ⚙️ Stats
 
+<!--
 <p align="center">📊 This Week, I spent time on</p>
+
 
 <p align="center"><img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=sagarkudu&hide_title=true&hide_border=true&theme=algolia" alt="sagarkudu wakatime stat" /></p>
 <br />
+-->
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarkudu&show_icons=true&locale=en&theme=algolia" alt="sagarkudu" />
