@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate with other open source contributor
 - ⚡ Fun fact: I think, I am in Love with Javascript.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkudu" alt="sagar kudu" /></a> </p>
+
 <br>
 
 [![https://sagarkudu.medium.com/](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://sagarkudu.medium.com/)](https://sagarkudu.medium.com/)
