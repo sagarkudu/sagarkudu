@@ -1,6 +1,6 @@
 ## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
 
-- 🔥 I'm currently working for HCL Technlogies | React, HTML5, CSS3, JavaScript, Bootstrap 
+- 🔥 I'm currently working for Tata Strive | React, HTML5, CSS3, JavaScript, Material UI(MUI5) 
 - 🌱 I’m a JavaScript enthusiast and currently all into ReactJS. 🧡
 - 💬 Ask me about React, Angular, Node.js, JavaScript, TypeScript, devops... 🙌
 - 👯 I’m looking to collaborate with other open source contributor
