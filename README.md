@@ -1,37 +1,4 @@
-## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
 
-- 🔥 I'm currently working for Tata Strive | React, HTML5, CSS3, JavaScript, Material UI(MUI5) 
-- 🌱 I’m a JavaScript enthusiast and currently all into ReactJS. 🧡
-- 💬 Ask me about React, Angular, Node.js, JavaScript, TypeScript, devops... 🙌
-- 👯 I’m looking to collaborate with other open source contributor
-- ⚡ Fun fact: I think, I am in Love with Javascript.
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkudu" alt="sagar kudu" /></a> </p>
-
-<br>
-
-[![https://sagarkudu.medium.com/](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://sagarkudu.medium.com/)](https://sagarkudu.medium.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sagarkudu_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falok722&screen_name=Sagar978)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sagarkudu)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkudu&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkudu" /> </p>
-
-Current Web UI Developer at HCL Technologies(Feb-2021) with total 1.8+ years of experience specializing in the JavaScript technologies. Super nerd who loves JavaScript
-& its frameworks, libraries and enjoys to customize all of the development environment. Interested in devising a better problem‑solving
-method for challenging tasks, and learning new technologies and tools if the need arises.
-
-
-<!-- BLOG-POST-LIST:START -->
-<!--
-## 📕 Latest Blog Posts
-
-- [How To Become React Developer In 2021 From Youtube](https://alok722.medium.com/how-to-become-react-developer-in-2021-from-youtube-c468d19e8059?source=rss-e10e116247f8------2)
-- [YDKJS — UP & GOING, Takeaways for Experienced JavaScript Developer](https://alok722.medium.com/ydkjs-up-going-takeaways-for-experienced-javascript-developer-ccda83b38a6a?source=rss-e10e116247f8------2)
-- [Story of Transition to the Senior SE role](https://alok722.medium.com/story-of-transition-to-the-senior-se-role-2c6ea1101e4a?source=rss-e10e116247f8------2)
-- [fastify typescript generator: a generator to bootstrap fastify server with typescript](https://alok722.medium.com/fastify-typescript-generator-a-generator-to-bootstrap-fastify-server-with-typescript-6a39bcea7a4?source=rss-e10e116247f8------2)
-- [Roadmap to become Web Developer in 2020](https://alok722.medium.com/roadmap-to-become-web-developer-in-2020-bd7ed7ed8ad5?source=rss-e10e116247f8------2)
--->
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect with me
 
